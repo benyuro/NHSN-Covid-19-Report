@@ -122,7 +122,7 @@ What this shows is that, in the context of this analysis, hospitals were not fea
 _**WHAT IS THE DISTRIBUTION OF HEALTHCARE FACILITIES BY STATE**_
 
 ![](Codes/healthcare_distribution_by_state.png)
-![](Graphs/healthcare_faacility_and_mortality_rate.png)
+![](Graphs/distribution_by_state.png)
 
 - Texas had the most healthcare facility, approcimately (99,000) healthcare facilities were availble for covid-19 related issues in the united states from 2020 to 2023
 - California with about (97,000) facilities 
