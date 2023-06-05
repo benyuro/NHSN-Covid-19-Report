@@ -128,6 +128,32 @@ _**WHAT IS THE DISTRIBUTION OF HEALTHCARE FACILITIES BY STATE**_
 - California with about (97,000) facilities 
 
 
+_**FIND THE HEALTHCARE FACILITY WITH THE HIGHEST OCCUPANCY RATE FOR COVID-19 PATIENTS**_
+
+![](Codes/occupancy_rate.png)
+![](Graphs/occupancy_rate.png)
+
+- Colusa Medical Centre had 15.74% occupancy rate 
+- Pearl Nordan Care Centre sits second with 11.39%
+
+
+## Dashboard
+
+![](Graphs/dashboard.png)
+
+
+## Recommendations
+- More focus should be placed on areas with relatively low cases but high mortality rates, with efective testing  and timely availablity of vaccines, the death rate can be contained.
+- Ensure that more healthcare facilities and mobile units are made available in areas of low distribution.
+- Lastly, improve vaccination campaigns to convince more people to get vaccinated and prevent spread.
+
+## Data Limitation
+- Absence of demographic information sucah as age of residents- If this information were availble, I beleive we would have derived more insights as to what age range was more prevalent in respect to case, deaths and reconeries.
+
+## Conclusion
+This best approach to curb the Covid-19 virus spread, is for everyone to adhere to strict protocols , based on the data, its gives great relief that the number of new cases have continued to drop from 2020 till 2023. As more data is made available, we'll continue to monitor trends and hopefully make more meaning of the situation and chart a sustainable way forward.
+
+THANK YOU FOR STICKING WITH ME. Cheers
 
 
 
