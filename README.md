@@ -16,7 +16,6 @@ Perform a comprehensive analysis of the COVID-19 National Healthcare Safety Netw
 - PowerBI for visualization
 
 ## Skills Demonstrated
-- Analytical Thinking
 SQL Manipulation techniques
 - Joins
 - Subqueries
@@ -102,7 +101,7 @@ For context,
 _**CALCULATE THE MORTALITY RATE (DEATH PER COVID CASE) FRO EACH HEALTHCARE FACILITY**_
 
 ![](Codes/mortality_rate_for_each_health.png)
-![](Graphs/healthcare_faacility_and_mortality_rate.png)
+![](health_mortality.jpg)
 
 - Grove at the Lake in Ilinois tops the list of mortality rate betweeen 2020 and 2023 with figures of as high as 35.78%
 - Following up is Andbe Home Inc in the state of Kansas with a mortality rate of 14.97%
@@ -113,7 +112,7 @@ _**CALCULATE THE MORTALITY RATE (DEATH PER COVID CASE) FRO EACH HEALTHCARE FACIL
 _**ARE THERE ANY SIGNIFICANT DIFFERENCES IN COVID-19 OUTCOMES BASED ON THE TYPE OF HEALTHCARE FACILITIES (E.G, HOSPITALS, NURSING HOME)**_
 
 ![](Codes/outcomes_by_healthcare_type.png)
-![](Graphs/outcome_based_on_facility_type.png)
+![](outcome.jpg)
 
 What this shows is that, in the context of this analysis, hospitals were not featured much, and this is to be expected because the data is based on records from mostly centres of care and not necessarily traditional hospitals.
 
