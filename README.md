@@ -5,7 +5,7 @@
 ## Introduction 
 The Covid-19 pandemic really changed the way we live, regardless of what part of the world you reside, you most certainly felt or still feeling the impact of this deadly virus that ravaged human civilization as we know it, waht I aim to achieve with this project is try to understand the 'what', 'when' and 'how' of the period from 2020-2023, with focus on the effects of the Covid-19 virus on Healthcare facilities across the US. For this, I used data made available by the **National Healthcare Safety Network(NHSN) database**
 
-Walk with me on this as I attempt to delve as deep as possible into the available data, it is worth noting that these healthcare facilities are not exclusive Covid-19 centres, what this means is that they also cater for patients with all other variants of influenzas and virus infections, but for this project, I would be focusing solely on the Covid-19 related records.
+Walk with me on this as I attempt to delve as deep as possible into the available data, it is worth noting that these healthcare facilities are not exclusive Covid-19 centres, what this means is that they also cater for patients with other variants of influenzas and virus infections, but for this project, I would be focusing solely on the Covid-19 related records.
 
 ## Project Goal
 Perform a comprehensive analysis of the COVID-19 National Healthcare Safety Network (NHSN) data.
@@ -16,7 +16,7 @@ Perform a comprehensive analysis of the COVID-19 National Healthcare Safety Netw
 - PowerBI for visualization
 
 ## Skills Demonstrated
-SQL Manipulation techniques
+Advanced SQL Manipulation techniques
 - Joins
 - Subqueries
 - Union
@@ -71,7 +71,7 @@ _**FIND THE TOP 5 STATES WITH THE HIGHEST MORTALITY RATE(DEATHS PER COVID-19 CAS
 ![](Codes/mortality_rate_in_2022.png)
 ![](Graphs/mortality_rate_in_2022.png)
 
-- Michicag state 31.7% was the state with the highest mortality rate in 2022
+- Michigan state 31.7% was the state with the highest mortality rate in 2022
 - North Dakota comes in second place with 20%
 - Kentucky 18%
 - Colorado 15%
@@ -150,7 +150,7 @@ _**FIND THE HEALTHCARE FACILITY WITH THE HIGHEST OCCUPANCY RATE FOR COVID-19 PAT
 - Absence of demographic information sucah as age of residents- If this information were availble, I beleive we would have derived more insights as to what age range was more prevalent in respect to case, deaths and reconeries.
 
 ## Conclusion
-This best approach to curb the Covid-19 virus spread, is for everyone to adhere to strict protocols , based on the data, its gives great relief that the number of new cases have continued to drop from 2020 till 2023. As more data is made available, we'll continue to monitor trends and hopefully make more meaning of the situation and chart a sustainable way forward.
+The best approach to curb the Covid-19 virus spread, is for everyone to adhere to strict protocols , based on the data, it gives great relief that the number of new cases have continued to drop from 2020 till 2023. As more data is made available, we'll continue to monitor trends and hopefully make more meaning of the situation and chart a sustainable way forward.
 
 THANK YOU FOR STICKING WITH ME. Cheers
 
